@@ -31,8 +31,8 @@
 *.out
 *.app
 
-# Bazel build directory
-**/bazel-out/
-**/bazel-bin/
-**/bazel-testlogs/
-**/bazel-genfiles/
+# Bazel build directories
+**/bazel-*
+
+# vscode
+**/.vscode*
