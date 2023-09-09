@@ -1,1 +1,1 @@
-cpp utilities that I use in my personal projects
+A few cpp utilities that I use in my personal projects
